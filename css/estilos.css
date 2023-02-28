@@ -1,7 +1,23 @@
 body {
   color: #333;
   text-align: center;
-  font-family: arial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+#cabecera {
+  background: darksalmon;
+  color: whitesmoke;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
+
+#cabecera #tagline {
+  padding: 0 0 0 1em;
+  font-weight: normal;
 }
 
 #container {
